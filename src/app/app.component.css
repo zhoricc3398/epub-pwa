@@ -1,0 +1,12 @@
+.book {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.book__button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
